@@ -13,12 +13,20 @@ namespace StackAndQueue{
             this.next=new Queue(data);
         }
         
+        public Queue DeQueue(){
+            return this.next;
+        }
+
         public void DisplayQueue(){
+            Console.Write("\nCurrent Elements in Queue: ");
             Queue q=this;
             while(q!=null){
-                Console.WriteLine(q.data+"  ");
+                Console.Write(q.data);
                 q=q.next;
+                if(q!=null)
+                    Console.Write("<--");
             }
+            Console.Write("\n");
         }
     }
 }
