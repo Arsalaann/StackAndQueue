@@ -1,0 +1,15 @@
+/home/luser/pgming/StackAndQueue/bin/Debug/net6.0/StackAndQueue
+/home/luser/pgming/StackAndQueue/bin/Debug/net6.0/StackAndQueue.deps.json
+/home/luser/pgming/StackAndQueue/bin/Debug/net6.0/StackAndQueue.runtimeconfig.json
+/home/luser/pgming/StackAndQueue/bin/Debug/net6.0/StackAndQueue.dll
+/home/luser/pgming/StackAndQueue/bin/Debug/net6.0/ref/StackAndQueue.dll
+/home/luser/pgming/StackAndQueue/bin/Debug/net6.0/StackAndQueue.pdb
+/home/luser/pgming/StackAndQueue/obj/Debug/net6.0/StackAndQueue.csproj.AssemblyReference.cache
+/home/luser/pgming/StackAndQueue/obj/Debug/net6.0/StackAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+/home/luser/pgming/StackAndQueue/obj/Debug/net6.0/StackAndQueue.AssemblyInfoInputs.cache
+/home/luser/pgming/StackAndQueue/obj/Debug/net6.0/StackAndQueue.AssemblyInfo.cs
+/home/luser/pgming/StackAndQueue/obj/Debug/net6.0/StackAndQueue.csproj.CoreCompileInputs.cache
+/home/luser/pgming/StackAndQueue/obj/Debug/net6.0/StackAndQueue.dll
+/home/luser/pgming/StackAndQueue/obj/Debug/net6.0/ref/StackAndQueue.dll
+/home/luser/pgming/StackAndQueue/obj/Debug/net6.0/StackAndQueue.pdb
+/home/luser/pgming/StackAndQueue/obj/Debug/net6.0/StackAndQueue.genruntimeconfig.cache
